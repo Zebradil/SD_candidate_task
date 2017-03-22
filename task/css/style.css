@@ -1,0 +1,22 @@
+html, body {
+    height : 100%;
+}
+
+.btn>[class^="icon-"] {
+    margin-left  : -3px;
+    margin-right : 5px;
+}
+
+.main-wrapper {
+    width   : 800px;
+    margin  : 0 auto;
+    padding : 10px 0;
+}
+
+.sub-wrapper {
+    /*box-shadow : 0 0 10px rgba(0, 0, 0, .5);*/
+}
+
+#questions {
+    margin-left : 70px;
+}
